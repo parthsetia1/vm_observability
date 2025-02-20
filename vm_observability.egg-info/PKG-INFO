@@ -1,0 +1,29 @@
+Metadata-Version: 2.2
+Name: vm_observability
+Version: 0.1
+Summary: A library to fetch CPU, memory, disk, network, and process metrics of a VM
+Home-page: https://github.com/yourusername/vm_observability
+Author: parth setia
+Author-email: parthsetia509@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: psutil
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary
+
+# vm_observability
+
+A Python library to monitor CPU, memory, disk, network, and process utilization of a VM.
+
+## Installation
+
+```bash
+pip install vm_observability
