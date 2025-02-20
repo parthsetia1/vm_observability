@@ -10,7 +10,7 @@ setup(
     description="A library to fetch CPU, memory, disk, network, and process metrics of a VM",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/vm_observability",
+    url="https://github.com/parthsetia1/vm_observability",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
