@@ -2,7 +2,7 @@ Metadata-Version: 2.2
 Name: vm_observability
 Version: 0.1
 Summary: A library to fetch CPU, memory, disk, network, and process metrics of a VM
-Home-page: https://github.com/yourusername/vm_observability
+Home-page: https://github.com/parthsetia1/vm_observability
 Author: parth setia
 Author-email: parthsetia509@gmail.com
 Classifier: Programming Language :: Python :: 3
